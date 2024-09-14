@@ -1,0 +1,8 @@
+{
+  "data_columns": ["snapshot_date", "country", "video_tags"],
+  "porc_similitud": 0.5,
+  "num_etiquetas": 50,
+  "paises": ["US", "CA", "GB", "AU", "NZ", "IE"],
+  "top_n": 10,
+  "logs_folder": "logs"
+}

@@ -1,0 +1,10 @@
+setup.py
+motor_videos/__init__.py
+motor_videos/flujo_semanal.py
+motor_videos/motor_videos.py
+motor_videos.egg-info/PKG-INFO
+motor_videos.egg-info/SOURCES.txt
+motor_videos.egg-info/dependency_links.txt
+motor_videos.egg-info/requires.txt
+motor_videos.egg-info/top_level.txt
+tests/test_motor.py

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: motor-videos
+Version: 1.0.0
+Summary: Motor de videos para el pipeline del TFM de UCM
+Home-page: https://github.com/Feng-Ma/motor_videos
+Author: Feng Ma
+Author-email: fengma@ucm.es
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: loguru
+
+Motor de videos para el pipeline del TFM de UCM

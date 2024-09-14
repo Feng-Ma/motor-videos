@@ -1,0 +1,8 @@
+setup.py
+motor_ingesta.egg-info/PKG-INFO
+motor_ingesta.egg-info/SOURCES.txt
+motor_ingesta.egg-info/dependency_links.txt
+motor_ingesta.egg-info/top_level.txt
+motor_videos/__init__.py
+motor_videos/motor_videos.py
+tests/test_motor.py
